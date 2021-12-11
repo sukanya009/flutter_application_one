@@ -10,7 +10,7 @@ class OneApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home:Container(
-        child: Text('welcome to 30days flutter'),
+        child: Text('welcome to 30days flutter classes'),
       ),
     );
       
